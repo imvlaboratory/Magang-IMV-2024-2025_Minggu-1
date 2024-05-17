@@ -324,3 +324,10 @@ Nilai learning rate berpengaruh pada perhitungan bobot baru, umumnya penggunaan 
 
 - Visualisasi: [ANN](https://playground.tensorflow.org/)
 - Visualisasi: [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+
+<br>
+
+<h2 align="center">Keperluan Magang</h2>
+
+- Code : [**Multiclass Image Classification**](https://colab.research.google.com/drive/15y8iTd1EzeZhcyNFjlAkAEsvY-B6_d3d?usp=sharing)
+- Pengumpulan Magang : [**Form Pengumpulan**](https://forms.gle/W2RWe1XiZkkVvKSZ9)
